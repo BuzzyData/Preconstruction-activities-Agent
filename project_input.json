@@ -1,0 +1,11 @@
+{
+  "project_name": "Oak Terrace Residences",
+  "project_type": "residential",
+  "location": "Austin, TX",
+  "site_area_sqft": 48000,
+  "budget_usd": 12000000,
+  "timeline_days": 240,
+  "has_historic_constraints": false,
+  "has_utility_conflicts": true,
+  "environmental_issues": ["stormwater runoff"]
+}
